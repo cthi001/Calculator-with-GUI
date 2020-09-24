@@ -1,4 +1,6 @@
 # CS 100 Programming Project
+# Coding Language: C++
+# Platform: Linux
 # Group Member:
 Cuong Thi - cthi001@ucr.edu
 Raymond Booth - rboot005@ucr.edu
